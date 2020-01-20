@@ -1,0 +1,4 @@
+django
+hypothesis
+pytest-django
+hypothesis[django]
